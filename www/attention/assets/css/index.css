@@ -1,0 +1,20 @@
+header{
+    padding: 15px 15px;
+    background: linear-gradient(to right,#8200FF, #E83845);
+}
+
+ul{
+    display: flex;
+}
+
+a{
+    width: 7em;
+    margin: 0 0.9em;
+    font-size: 1.2em;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+
+a:hover{
+    opacity: 0.8;
+}
